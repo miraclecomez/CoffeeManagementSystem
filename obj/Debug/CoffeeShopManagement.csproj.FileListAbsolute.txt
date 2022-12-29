@@ -1,0 +1,11 @@
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeShopManagement.exe.config
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeShopManagement.exe
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeShopManagement.pdb
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.csproj.AssemblyReference.cache
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.Form1.resources
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.Properties.Resources.resources
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.csproj.GenerateResource.cache
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.exe
+C:\Users\Griya Dircomp\source\repos\CoffeeShopManagement\CoffeeShopManagement\obj\Debug\CoffeeShopManagement.pdb
